@@ -1,0 +1,7 @@
+# Node artifact files + rsynced folders
+node_modules
+.idea/
+
+*static*
+
+dw.json
