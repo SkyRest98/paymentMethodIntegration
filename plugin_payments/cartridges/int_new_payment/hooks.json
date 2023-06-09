@@ -1,0 +1,12 @@
+{
+  "hooks": [
+    {
+      "name": "app.payment.processor.new_processor",
+      "script": "./cartridge/scripts/hooks/payment/processor/new_processor"
+    },
+    {
+      "name": "app.payment.form.processor.new_processor",
+      "script": "./cartridge/scripts/hooks/payment/processor/new_processor_form_processor"
+    }
+  ]
+}
