@@ -9,7 +9,7 @@
         <!--- payment method is credit card --->
         <input type="hidden" class="form-control"
                name="${pdict.forms.billingForm.paymentMethod.htmlName}"
-               value="CREDIT_CARD"
+               value="NEW_PAYMENT"
         >
 
         <!--- register/authenticated user --->
